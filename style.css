@@ -9,12 +9,13 @@ body {
 
 .title {
     font-size: 24px;
-    color: slategrey;
-    background-color: rgb(53, 40, 20);
+    color: rgb(53, 40, 20);
+    background-color: slategrey;
 }
 
 .head.title {
     font-size: 36px;
+    border-width: 1px;
     border-color: black;
 }
 
