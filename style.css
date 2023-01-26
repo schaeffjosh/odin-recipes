@@ -27,5 +27,5 @@ body {
 #recipes {
     text-align: center;
     font-size: 24px;
-    list-style: circle;
+    list-style: none;
 }
