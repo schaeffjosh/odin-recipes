@@ -1,0 +1,21 @@
+body {
+    background-color: burlywood;
+}
+
+#homepage {
+    font-size: 48px;
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+    color: slategrey;
+    background-color: rgb(53, 40, 20);
+}
+
+.head.title {
+    font-size: 36px;
+    border-color: black;
+}
+
+
