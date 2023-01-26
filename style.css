@@ -15,8 +15,10 @@ body {
 
 .head.title {
     font-size: 36px;
-    border-width: 1px;
-    border-color: black;
 }
 
+.image.top {
+    height: 300;
+    width: auto;
+}
 
